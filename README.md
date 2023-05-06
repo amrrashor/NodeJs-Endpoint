@@ -1,4 +1,4 @@
-### Node.js Endpoint Documentation
+## Node.js Endpoint Documentation
 This documentation provides information about a Node.js endpoint built using Express.js and Nodemon. The endpoint allows you to perform certain actions or retrieve specific data through HTTP requests.
 
 # Prerequisites
