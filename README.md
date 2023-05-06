@@ -9,16 +9,17 @@ Node.js and npm installed on your machine.
 # Installation
 To set up and run the Node.js endpoint locally, follow these steps:
 
-Clone the repository containing the endpoint code.
+1- Clone the repository containing the endpoint code.
 
-Open a terminal or command prompt and navigate to the project directory.
+2- Open a terminal or command prompt and navigate to the project directory.
 
-Install the dependencies by running the following command:
+3- Install the dependencies by running the following command:
 
-npm install
-Start the server using the following command:
+`npm install`
 
-nodemon app.js
+4- Start the server using the following command:
+
+`nodemon app.js`
 
 This command will launch the server using Nodemon, which automatically restarts the server whenever changes are made to the source code.
 
